@@ -1,0 +1,18 @@
+.App-Input {
+  display: inline-block;
+  width: 49%;
+  margin: 5vh auto;
+  text-align: center;
+}
+
+.App-Input textarea {
+  width: 80%;
+  height: 50vh;
+}
+
+.App-Output {
+  display: inline-block;
+  width: 49%;
+  margin: 5vh auto;
+  vertical-align: top;
+}
